@@ -66,19 +66,19 @@
 
 | Depth1 | Depth2 | Depth3 | 문서 |
 | --- | --- | --- | --- |
-| 공통 화면 | 메인 대시보드 |  | [메인 대시보드](./common/main-dashboard/README.md) |
-| 매장 관리 | 유저 관리(스태프 관리) | 유저 정보 관리 | [유저 정보 관리](./store-management/user-management/README.md) |
-| 매장 관리 | 매장 정보 관리 | 매장 기본 정보 | [매장 기본 정보](./store-management/store-basic-info/README.md) |
-| 매장 관리 | 테이블 정보 관리 | 테이블 관리 | [테이블 관리](./store-management/table-management/README.md) |
-| 매장 관리 | 테이블 정보 관리 | QR코드 관리 | [QR코드 관리](./store-management/qr-code-management/README.md) |
-| 메뉴 관리 | 메뉴 정보 관리 | 메뉴 관리 | [메뉴 관리](./menu-management/menu/README.md) |
-| 메뉴 관리 | 메뉴 정보 관리 | 옵션 관리 | [옵션 관리](./menu-management/option/README.md) |
-| 주문 관리 | 주문 현황 | 실시간 주문 조회 | [실시간 주문 조회](./order-management/live-orders/README.md) |
-| 주문 관리 | 주문 이력 | 주문 이력 조회 | [주문 이력 조회](./order-management/order-history/README.md) |
-| 결제 관리 | 결제 현황 | 결제 목록 조회 | [결제 목록 조회](./payment-management/payment-list/README.md) |
-| 결제 관리 | 정산 관리 | 정산 조회 | [정산 조회](./payment-management/settlement/README.md) |
-| 게시판 | 공지사항 | 공지사항 조회 | [공지사항 조회](./board/notices/README.md) |
-| 게시판 | 문의사항 | 문의사항 관리 | [문의사항 관리](./board/inquiries/README.md) |
+| 공통 화면 | 메인 대시보드 |  | [메인 대시보드](./common/main-dashboard/main-dashboard.md) |
+| 매장 관리 | 유저 관리(스태프 관리) | 유저 정보 관리 | [유저 정보 관리](./store-management/user-management/user-management.md) |
+| 매장 관리 | 매장 정보 관리 | 매장 기본 정보 | [매장 기본 정보](./store-management/store-basic-info/store-basic-info.md) |
+| 매장 관리 | 테이블 정보 관리 | 테이블 관리 | [테이블 관리](./store-management/table-management/table-management.md) |
+| 매장 관리 | 테이블 정보 관리 | QR코드 관리 | [QR코드 관리](./store-management/qr-code-management/qr-code-management.md) |
+| 메뉴 관리 | 메뉴 정보 관리 | 메뉴 관리 | [메뉴 관리](./menu-management/menu/menu-management.md) |
+| 메뉴 관리 | 메뉴 정보 관리 | 옵션 관리 | [옵션 관리](./menu-management/option/option-management.md) |
+| 주문 관리 | 주문 현황 | 실시간 주문 조회 | [실시간 주문 조회](./order-management/live-orders/live-orders.md) |
+| 주문 관리 | 주문 이력 | 주문 이력 조회 | [주문 이력 조회](./order-management/order-history/order-history.md) |
+| 결제 관리 | 결제 현황 | 결제 목록 조회 | [결제 목록 조회](./payment-management/payment-list/payment-list.md) |
+| 결제 관리 | 정산 관리 | 정산 조회 | [정산 조회](./payment-management/settlement/settlement.md) |
+| 게시판 | 공지사항 | 공지사항 조회 | [공지사항 조회](./board/notices/notices.md) |
+| 게시판 | 문의사항 | 문의사항 관리 | [문의사항 관리](./board/inquiries/inquiries.md) |
 
 ## 6. 구현 우선순위 메모
 
