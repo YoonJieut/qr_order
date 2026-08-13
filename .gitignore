@@ -70,8 +70,8 @@ uploads/
 qrorder/src/test/
 
 ### Claude Code ###
-.claude/
 CLAUDE.md
+.claude/settings.local.json
 
 ### 백엔드 테스트파일 ###
 qrorder/src/test/
